@@ -9,3 +9,4 @@ It will then display that roll in chat, and will link to a Buff with the descrip
 
 
 For Crits/Fumbles that may have a longer duration, you can drag these Buffs onto any Actor as a reminder that the Crit/Fumble is still in effect.
+These buffs are stored in the 'Critical Fumbles - PF1' and 'Critical Hits - PF1' Compendiums.
