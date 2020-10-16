@@ -1,0 +1,32 @@
+{   
+   "name": "critical-hits-and-fumbles-pf1",   
+   "title": "Critical Hits and Fumbles for PF1",   
+   "description": "Rolltables and Buffs for rolling Crits and Fumbles",   
+   "author": "Nargath",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.7.4",
+   "packs": [
+   {
+      "name": "crithits",
+      "label": "Critical Hits - PF1",
+      "path": "packs/crithits.db",
+      "entity": "Item",
+      "module": "critical-hits-and-fumbles-pf1"
+    },
+    {
+      "name": "critfumbles",
+      "label": "Critical Fumbles - PF1",
+      "path": "packs/critfumbles.db",
+      "entity": "Item",
+      "module": "critical-hits-and-fumbles-pf1"
+    },
+    {
+      "name": "critrolls",
+      "label": "Critical Rolltables - PF1",
+      "path": "packs/critrolls.db",
+      "entity": "RollTable",
+      "module": "critical-hits-and-fumbles-pf1"
+    }
+  ]
+ }
