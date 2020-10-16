@@ -6,6 +6,9 @@
    "version": "1.0.0",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.7.4",
+   "url":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1",
+   "download":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/releases/download/1.0.0/1.0.0.zip",
+   "manifest":"https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/1.0.0/module.json"
    "packs": [
    {
       "name": "crithits",
