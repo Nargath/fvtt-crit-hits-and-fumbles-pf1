@@ -2,7 +2,8 @@
 A Foundry VTT module for Pathfinder 1's Critical Hit and Fumble Deck
 
 This is not listed on the Foundry VTT module listing.
-To install this, paste this manifest URL into the 'Manifest URL field in Install Modules of the core Foundry program
+To install this, paste this manifest URL into the 'Manifest URL field in Install Modules of the core Foundry program.
+https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/main/module.json
 
 ![Where To Install](/images/WhereToInstall.png)
 
