@@ -3,12 +3,12 @@
    "title": "Critical Hits and Fumbles for PF1",   
    "description": "Rolltables and Buffs for rolling Crits and Fumbles",   
    "author": "Nargath",
-   "version": "1.0.0",
-   "minimumCoreVersion": "0.5.0",
-   "compatibleCoreVersion":"0.7.4",
+   "version": "1.0.1",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.8.6",
    "url":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1",
    "download":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/releases/download/1.0.0/1.0.0.zip",
-   "manifest":"https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/1.0.0/module.json",
+   "manifest":"https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/main/module.json",
    "packs": [
    {
       "name": "crithits",
